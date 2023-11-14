@@ -14,7 +14,7 @@ int main()
 		{
 			cout << num << " is odd" << endl;
 		}
-		num++;
+		num = num + 2;
 	}
 	return 0;
 }
